@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseojeewon&count_bg=%234CC2DE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-![Jee Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojeewon&show_icons=true&theme=radical)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myalgo)](https://solved.ac/myalgo)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseojeewon&count_bg=%234CC2DE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)<br>
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojeewon&show_icons=true&theme=gruvbox)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hialgo)](https://solved.ac/hialgo)
 
 
 
